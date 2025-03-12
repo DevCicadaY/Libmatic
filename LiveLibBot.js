@@ -12,6 +12,8 @@
 // @match        https://www.livelib.ru/reader/*
 // @match        https://www.livelib.ru/challenge/2025/info
 // @match        https://www.livelib.ru/challenge/2025/reader/*
+// @updateURL    https://github.com/DevCicadaY/Libmatic/raw/main/LiveLibBot.js
+// @downloadURL  https://github.com/DevCicadaY/Libmatic/raw/main/LiveLibBot.js
 // @grant        none
 // ==/UserScript==
 
